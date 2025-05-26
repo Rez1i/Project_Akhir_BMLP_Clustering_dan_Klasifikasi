@@ -1,1 +1,3 @@
-# Project_Akhir_BMLP_Clustering_dan_Klasifikasi
+# Project Akhir Kelas Belajar Machine Learning untuk Pemula 
+## Clustering
+## Klasifikasi
